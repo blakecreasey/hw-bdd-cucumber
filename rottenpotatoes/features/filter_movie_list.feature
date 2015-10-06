@@ -18,6 +18,7 @@ Background: movies have been added to database
   | The Incredibles         | PG     | 5-Nov-2004   |
   | Raiders of the Lost Ark | PG     | 12-Jun-1981  |
   | Chicken Run             | G      | 21-Jun-2000  |
+  | A Cool Movie            | PG     | 6-Oct-2015   |
 
   And  I am on the RottenPotatoes home page
 

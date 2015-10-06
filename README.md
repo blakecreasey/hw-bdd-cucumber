@@ -1,3 +1,17 @@
+
+        What did you learn while doing this assignment?
+        
+        
+        What additional sources did you use, beyond the textbook and/or lecture videos?
+        
+        
+        Approximately how much time did you spend on each part of the assignment?
+        
+        Problem 1: 10/6: 30 min 
+        
+        What, if anything, did you get stuck on?
+
+
 BDD and Cucumber
 ================
 
