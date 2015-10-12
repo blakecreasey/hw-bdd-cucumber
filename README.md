@@ -4,12 +4,29 @@
         
         What additional sources did you use, beyond the textbook and/or lecture videos?
         
+        http://ruby-doc.org/core-2.2.3/String.html#method-i-index
+        Abraham Mhaidli who is the greatest and saved us hours of frustration by telling us to use "ratings_PG" instead of "PG"
+        Reilly Grant helped us stop banging our heads against the wall and take a different path instead
+        http://rubular.com/
+        
+        Resources that didn't really help
+        https://github.com/cucumber/cucumber/wiki/Step-Argument-Transforms
+        
         
         Approximately how much time did you spend on each part of the assignment?
         
-        Problem 1: 10/6: 30 min 
+        Problem 1: 10/6: 30 minutes
+        Problem 2 part 1: 50 minutes
+                  part 2: 30 minutes
+                  part 3 and 4: 1 hour
+        Problem 3: 20 minutes
         
         What, if anything, did you get stuck on?
+        
+        -We spent a very long time trying to do things without telling cucumber to press the "Refresh" button, which was dumb and frustrating.
+        -We also tried to get "Then the "ratings_PG" checkbox within will be checked" then gave up because it never actually wanted us to do that and 
+           it wasn't working
+        -We couldn't get the "Then I should see all the movies" test working because we were stuck on how to count the rows of the Given table
 
 
 BDD and Cucumber
